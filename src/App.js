@@ -1,9 +1,10 @@
 import './App.css';
+import SimpleForm from './components/SimpleForm';
 
 function App() {
   return (
     <div>
-      <h1>Shashi</h1>
+      <SimpleForm/>
     </div>
   );
 }
